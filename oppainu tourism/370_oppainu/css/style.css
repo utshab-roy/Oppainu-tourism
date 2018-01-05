@@ -1,0 +1,23 @@
+.wrapper{width:100%;margin:0 auto;padding:0px;}
+.container{width:100%;padding:10px;}
+body{width:100%l;margin:0px;padding:0px;}
+.navbar-default{background:none;}
+.navbar-default .navbar-brand{font-size:18px;font-weight:bold;color:#000000}
+/*nav*/
+.banner_top{ background:url(../images/md-abdullah-mahmud-_-01673584475-_-landscape-nature-_-a-walk-to-sunrise.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:700px;}
+#title{margin-top:300px; border:2px #FFFFFF solid;}
+#title h1{font-size:40px;color:#CCCCCC;text-align:center;}
+#title p{font-size:18px;color:#CCCCCC;text-align:center;}
+select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+
+    height: 30px; 
+}
+/*title*/
+.thumbnail a img{height:440px;width:650px;}
+.thumbnail a img:hover{opacity:0.8;}
+.thumbnail{padding-left:15px;}
